@@ -1,4 +1,5 @@
 Contador de 0 até 9 usando uma matriz de led's 5x5
+--
 📋 **Sobre**
 O código implementa o controle de uma matriz de LEDs WS2812 (uma matriz de 5x5 LEDs) 
 utilizando o Raspberry Pi Pico w e os botões físicos conectados a placa da BitDogLab para exibir números de 0 a 9.
