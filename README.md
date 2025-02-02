@@ -19,3 +19,8 @@ Usa um buffer para armazenar quais LEDs da matriz estão acesos. Cada número (d
 Botão A incrementa o número exibido na matriz (0 a 9).
 Botão B decrementa o número exibido (9 a 0).
 Um sistema de debounce evita múltiplos acionamentos indesejados dos botões.
+
+**Link de demonstração na placa**
+
+https://drive.google.com/file/d/1-4pjHANlq1qMMvhA5eXdcl1GfGw9zs2r/view?usp=sharing
+--
